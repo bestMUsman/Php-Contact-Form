@@ -18,7 +18,7 @@ body {
 <?php 
 if(isset($_POST['submit'])){
 
-    $to = "muhammadusmancoder@gmail.com"; // this is your Email address
+    $to = "musmanrao1994@gmail.com"; // this is your Email address
 
     $from = $_POST['email']; // this is the sender's Email address
 
